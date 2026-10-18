@@ -1,0 +1,7 @@
+python corrida.py
+python desempenho.py
+python pneus.py
+python pitstops.py
+python ambiente.py
+python contexto.py
+python eventos.py
